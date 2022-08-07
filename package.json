@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Risky ganteng",
   "version": "1.1.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "Ga ush di spam bot gua dek,bot nya anti call nanti ku tebas peller kau dek dek",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Risky syg kamu 🗿",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
